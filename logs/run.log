@@ -1,0 +1,33 @@
+2025-09-29 19:19:16,244 [INFO] ✅ Logging system ready in notebook!
+2025-09-29 19:25:07,732 [INFO] 🚀 Test xatolarni loglash boshlanmoqda
+2025-09-29 19:25:07,733 [ERROR] ❌ Xato yuz berdi: division by zero
+2025-09-29 19:25:07,733 [ERROR] Stack trace:
+Traceback (most recent call last):
+  File "C:\Users\sharg\AppData\Local\Temp\ipykernel_20628\3580999274.py", line 4, in <module>
+    x = 10 / 0  # bu xato
+        ~~~^~~
+ZeroDivisionError: division by zero
+2025-09-29 19:25:19,734 [INFO] 🚀 Pipeline start
+2025-09-29 19:25:19,735 [ERROR] ❌ Pipeline ishlashda xato yuz berdi: name 'StartupPreprocessor' is not defined
+2025-09-29 19:25:19,735 [ERROR] Stack trace:
+Traceback (most recent call last):
+  File "C:\Users\sharg\AppData\Local\Temp\ipykernel_20628\1632913645.py", line 9, in <module>
+    processor = StartupPreprocessor(df_2, target='status_binary')
+                ^^^^^^^^^^^^^^^^^^^
+NameError: name 'StartupPreprocessor' is not defined
+2025-09-29 19:27:37,549 [INFO] 🚀 Pipeline start
+2025-09-29 19:27:37,550 [ERROR] ❌ Pipeline ishlashda xato yuz berdi: name 'StartupPreprocessor' is not defined
+2025-09-29 19:27:37,551 [ERROR] Stack trace:
+Traceback (most recent call last):
+  File "C:\Users\sharg\AppData\Local\Temp\ipykernel_20628\801197927.py", line 9, in <module>
+    processor = StartupPreprocessor(df_2, target='status_binary')
+                ^^^^^^^^^^^^^^^^^^^
+NameError: name 'StartupPreprocessor' is not defined
+2025-09-29 19:29:23,766 [INFO] 🚀 Pipeline start
+2025-09-29 19:29:23,767 [ERROR] ❌ Pipeline ishlashda xato yuz berdi: name 'StartupPreprocessor' is not defined
+2025-09-29 19:29:23,767 [ERROR] Stack trace:
+Traceback (most recent call last):
+  File "C:\Users\sharg\AppData\Local\Temp\ipykernel_20628\2689766033.py", line 9, in <module>
+    processor = StartupPreprocessor(df_2, target='status_binary')
+                ^^^^^^^^^^^^^^^^^^^
+NameError: name 'StartupPreprocessor' is not defined
